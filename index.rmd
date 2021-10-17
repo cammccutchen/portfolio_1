@@ -28,14 +28,14 @@ This interactive map of Tampa shows the male population spread across the city o
 
 * Displaying data on an interactive map
 
-[![](thumbnails/Tampa_interactive.JPG)](https://cammccutchen.github.io/portfolio_1/fullsize/Tampa_Male_Population.html){target="_blank"}
+[![](thumbnails/interactive_map.JPG)](https://cammccutchen.github.io/portfolio_1/fullsize/Tampa_Male_Population.html){target="_blank"}
 
 # Georeferenced Map
 The following map demonstrates a raster image that was georeferenced using Arc GIS. This map demonstrates the following skills: 
 
 * Georeferencing a raster image
 
-[![](thumbnails/Miami_Greenspace.jpg)](https://cammccutchen.github.io/portfolio_1/fullsize/Georeferenced_miami.pdf){target="_blank"}
+[![](thumbnails/Georeferenced_map.jpg)](https://cammccutchen.github.io/portfolio_1/fullsize/Georeferenced_map.pdf){target="_blank"}
 
 # Distribution and Distance Maps
 Let's take a look at maps based on the city of Boston!
@@ -45,14 +45,14 @@ In this map I aggregated landmark point data into a Boston neighborhood polygon 
 
 * Aggregating point data to a layer of polygons
 
-[![](thumbnails/Boston_landmarks.JPG)](https://cammccutchen.github.io/portfolio_1/thumbnails/Boston_landmarks.JPG){target="_blank"}
+[![](thumbnails/point_data_polygon.JPG)](https://cammccutchen.github.io/portfolio_1/fullsize/point_data_polygons.pdf){target="_blank"}
 
 ## Boston Landmarks Distance to Parking
 If you are visiting a landmark, you might want to park near it. In this map we look at the relationship of landmarks to city parking. This map demonstrates the following skills:
 
 * Calculating and displaying relationships among point and polygon layers based on distance
 
-[![](thumbnails/Landmarks_distance.JPG)](https://cammccutchen.github.io/portfolio_1/thumbnails/Landmarks_distance.JPG){target="_blank"}
+[![](thumbnails/distance_map.jpg)](https://cammccutchen.github.io/portfolio_1/fullsize/distance_map.pdf){target="_blank"}
 
 # Time and Travel Relationship Maps
 The following maps demonstrate the relationship of interacting with points in the city based upon time and distance. Each maps demonstrates a different way of seeingt this relationship. 
