@@ -4,14 +4,12 @@ author: "Cam McCutchen"
 output: 
   rmdformats::downcute
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
 # Introduction
 
-This is a culmination of r-studio mapping projects that have been completed throughout the VIS 2128 course. In this document you will find maps that demonstrate different r-studio skills that visually represent relevant data. 
+This is a culmination of mapping projects that have been completed throughout the VIS 2128 course. In this document you will find maps that demonstrate different r-studio skills that visually represent data. 
 
 
 The following skills will be demonstrated in this portfolio.
