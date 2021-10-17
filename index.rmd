@@ -45,7 +45,7 @@ In this map I aggregated landmark point data into a Boston neighborhood polygon 
 
 * Aggregating point data to a layer of polygons
 
-[![](thumbnails/point_data_polygon.JPG)](https://cammccutchen.github.io/portfolio_1/fullsize/point_data_polygons.pdf){target="_blank"}
+[![](thumbnails/point_data_polygons.jpg)](https://cammccutchen.github.io/portfolio_1/fullsize/point_data_polygons.pdf){target="_blank"}
 
 ## Boston Landmarks Distance to Parking
 If you are visiting a landmark, you might want to park near it. In this map we look at the relationship of landmarks to city parking. This map demonstrates the following skills:
